@@ -1,0 +1,8 @@
+{
+  "colarobar":   { "sounds": ["colas:colarobar"] },
+  "colarobada":  { "sounds": ["colas:colarobada"] },
+  "start_shoot": { "sounds": ["colas:start_shoot"] },
+  "colasend":    { "sounds": ["colas:colasend"] },
+  "colas":       { "sounds": [ { "name": "colas:colas", "stream": true } ] },
+  "colasgulag":  { "sounds": [ { "name": "colas:colasgulag", "stream": true } ] }
+}
